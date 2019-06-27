@@ -1,0 +1,14 @@
+Panduan Untuk Menggunakan File OAI
+Agustus 2012
+
+1. Extract file oai2__for_isjd.zip
+2. Copy ke lokasi yang di inginkan (misal /xampp/htdocs/senayan/oai2)
+2. Ubah permission untuk folder tokens yang ada didalam folder /oai2/ agar bisa di tulisi (write)
+3. Konfigurasi file oaidp-config-server.php yang ada didalam folder /oai2/oai2/ sesuai dengan konfigurasi yang dimiliki
+   (pada file tersebut juga sudah ada petunjuk dan contoh yang diberikan)
+
+Selamat Menggunakan
+
+Salam,
+
+Al Hafiz Akbar Maulana Siagian
