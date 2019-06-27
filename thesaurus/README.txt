@@ -1,0 +1,1 @@
+Sebelum menjalankan Aplikasi, harap mengubah setting database pada file database.php
